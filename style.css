@@ -9,5 +9,14 @@ body > .container {
     padding: 0.8rem;
     height: 20vh;
     object-fit: contain;
-   }
+}
+
+.pagination > li > a {
+    background-color: white;
+    color: black;
+}
+.pagination > .active > a {
+    background-color: gray !Important;
+}
+
    
