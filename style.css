@@ -26,5 +26,9 @@ body > .container {
     font-size: x-small;
 }
 
+.delete {
+    color: rgb(240, 0, 0);
+}
+
 
    
